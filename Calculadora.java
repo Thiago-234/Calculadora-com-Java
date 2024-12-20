@@ -14,7 +14,7 @@ public class Calculadora {
 
         int escolha;
         do {
-            System.out.println("Escolha uma operação para realizar: \n[1]Soma \n[2]Subtração \n[3]Multiplicação \n[4]Divisão \n[5]Alterar Números [6]Encerrar Programa ");
+            System.out.println("Escolha uma operação para realizar: \n[1]Soma \n[2]Subtração \n[3]Multiplicação \n[4]Divisão \n[5]Alterar Números \n[6]Encerrar Programa ");
 
             escolha = x.nextInt();
 
